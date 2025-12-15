@@ -1,0 +1,6 @@
+eccodes==2.44.0
+cfgrib==0.9.15.1
+xarray==2025.6.1
+cdsapi==0.7.7
+tensorflow==2.19.0
+numpy==2.0.2
